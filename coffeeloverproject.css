@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans:wght@300&family=Lobster&display=swap');
+
+#a img{
+     width: 100%;
+     height: 500px;
+ }   
+#c{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTzg56rra8CbjEGS7hS9P9E-lDaG-4Fb0Jw&usqp=CAU);
+}
+#b{
+    position: sticky;
+    top: 0px;
+    width: 45%;
+    display: flex;
+    padding-top: 10px;
+    margin-top: -23px;
+    justify-content: space-between;
+    padding-left: 55%;
+    height: 30px;
+    background-color: linen;   
+}
+#menu{
+    font-family: 'Dancing Script', cursive;
+    color: orange;
+    font-size: 25px;
+    
+    margin-bottom: 0%;
+}
+#c{
+    text-align: center;
+    font-style: italic;
+    height: 200px;
+    padding-top: 50px;
+}
+#c h1{
+    color: violet;
+    font-size: 70px;
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#e{
+    text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
+    
+
+}
+#e h3{
+    text-align: justify;
+}
+.e1{
+    margin-left: 300px;
+    padding-right: 300px;
+    width: 60%;
+}
+.f1{
+    margin-left: 200px;
+}
+.g1{
+    margin-left: 200px;
+}
+#e1 img{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+#para{
+    display: flex;
+    font-size: larger;
+    padding-right: 50px;
+    
+    
+}
+#h img{
+    width: 100%;
+}
+#i{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIblxx0sQFmQUf1jeOUcfRDKwIOFUP7Vao-Pyuiw-NWTOYhWOslJgZq43jYBOzbharBUA&usqp=CAU);
+    height: 400px;
+    
+}
+button{
+    background-color: seagreen;
+    font-size: 20px;
+    margin-top: 50px;  
+}
+#i1{
+    margin-left: 900px;
+}
+#i2{
+    margin-left: 900px;
+}
+input{
+    font-size: 20px;
+}
+#i p{
+    color: seashell;
+    align-items: center;
+}
+#i3{
+    font-size: x-large;
+    color: limegreen;
+    margin-left: 1000px;
+    margin-top: 90px; 
+}
+
+#main1{
+    padding-left: 300px;
+    width: 60%;
+    text-align: justify;
+}
+#main2{
+    width: 60%;
+    justify-content: end;
+    text-align: justify;
+    padding-left: 300px;
+}
